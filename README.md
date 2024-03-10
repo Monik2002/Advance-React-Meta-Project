@@ -1,4 +1,3 @@
-```
 # React Portfolio
 
 This is a portfolio website built using React. It showcases your projects, provides information about you, and offers a contact form for visitors to get in touch with you.
@@ -14,27 +13,19 @@ This is a portfolio website built using React. It showcases your projects, provi
 
 1. Clone the repository:
 
-```
 git clone https://github.com/Monik2002/react-portfolio.git
-```
 
 2. Navigate to the project directory:
 
-```
 cd react-portfolio
-```
 
 3. Install dependencies:
 
-```
 npm install
-```
 
 4. Start the development server:
 
-```
 npm start
-```
 
 5. Open your browser and visit `http://localhost:3000` to view the website.
 
@@ -57,4 +48,3 @@ This project was created as part of the Advanced React course by Meta. Special t
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
