@@ -13,19 +13,27 @@ This is a portfolio website built using React. It showcases your projects, provi
 
 1. Clone the repository:
 
+ ```bash
 git clone https://github.com/Monik2002/react-portfolio.git
+```
 
 2. Navigate to the project directory:
 
+```bash
 cd react-portfolio
+```
 
 3. Install dependencies:
 
+```bash
 npm install
+```
 
 4. Start the development server:
 
+```bash
 npm start
+```
 
 5. Open your browser and visit `http://localhost:3000` to view the website.
 
